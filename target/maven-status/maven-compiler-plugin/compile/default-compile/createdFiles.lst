@@ -1,0 +1,9 @@
+lach\plugin\handlers\arenaHandler.class
+lach\plugin\commands\red.class
+lach\plugin\commands\arena.class
+lach\plugin\handlers\BlockHandler.class
+lach\plugin\commands\ref.class
+lach\plugin\commands\blocks.class
+lach\plugin\handlers\CustomItemHandler.class
+lach\plugin\commands\blue.class
+lach\plugin\commands\fan.class

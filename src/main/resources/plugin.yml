@@ -1,0 +1,42 @@
+name: game
+version: '${project.version}'
+main: lach.plugin.Game
+api-version: 1.18
+
+commands:
+  blocks:
+    description: "Gives players blocks"
+    usage: "/blocks"
+    permission: "game.builder"
+    permission-message: "You don't have permission to use this command"
+    aliases: []
+  ref:
+    description: "Gives players a ref"
+    usage: "/ref"
+    permission: "game.ref"
+    permission-message: "You don't have permission to use this command"
+    aliases: [r]
+  arena:
+    description: "Builds and sets arena"
+    usage: "/arena"
+    permission: "game.builder"
+    permission-message: "You don't have permission to use this command"
+    aliases: [a]
+  blue:
+    description: "Join blue side"
+    usage: "/blue"
+    permission: ""
+    permission-message: "You don't have permission to use this command"
+    aliases: [b]
+  red:
+    description: "Join red side"
+    usage: "/red"
+    permission: ""
+    permission-message: "You don't have permission to use this command"
+    aliases: [r]
+  fan:
+    description: "Join fan side"
+    usage: "/fan"
+    permission: ""
+    permission-message: "You don't have permission to use this command"
+    aliases: [f]

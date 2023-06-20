@@ -39,7 +39,7 @@
                         </goals>
                         <configuration>
                             <createDependencyReducedPom>false</createDependencyReducedPom>
-                            <outputFile>C:\Users\11thu\Downloads\MC\Server\plugins\game.jar</outputFile>
+                            <!--<outputFile>C:\Users\11thu\Downloads\MC\Server\plugins\game.jar</outputFile>-->
                         </configuration>
                     </execution>
                 </executions>
